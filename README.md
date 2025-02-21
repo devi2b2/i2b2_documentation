@@ -12,8 +12,13 @@
     <details>
     <summary> todo </summary>
     </details>
+
+  - Setting up DB 
+    <details>
+    <summary> todo </summary>
+    </details> 
     
-  - Connecting with Production DB 
+  - Connecting containers to DB 
     <details>
     <summary> todo </summary>
     </details> 
